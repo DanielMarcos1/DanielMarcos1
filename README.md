@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanielMarcos1
 - 👀 I’m interested in back-end, cloud and CP
-- 🌱 I’m currently learning Rust, .NET and ASP.NET
+- 🌱 I’m currently learning Java and .NET
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me: daniel04pessoal@gmail.com
 
